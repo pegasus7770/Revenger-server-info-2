@@ -1,0 +1,14 @@
+{
+  "name": "ServerInspector",
+  "description": "Inspect server metadata, Snowflake creation dates, boosts, and open server settings directly from the guild sheet or plugin settings.",
+  "authors": [
+    {
+      "name": "pegasus7770",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_info_24px"
+  }
+}
